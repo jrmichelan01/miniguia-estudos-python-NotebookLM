@@ -24,13 +24,13 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
 
    
 
-  *TEXTO DO PROMPTS*
+  ##TEXTO DO PROMPTS
   
  * "Dada uma pessoa com nome e idade, determine se a entrada é permitida ou negada. Caso a idade seja maior ou igual a 18, a entrada é permitida, caso contrário, é negada."
    
    
 
- * '''PROMPT'''
+  PROMPT
  * nome = input("Digite seu nome: ")
  * try:
  *   idade = int(input("Digite sua idade: "))
