@@ -30,8 +30,8 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
    
    
 
-  *PROMPT*
-  
+**PROMPT**
+  ```
 nome = input("Digite seu nome: ")
 
 try:
@@ -46,7 +46,7 @@ try:
     
   print(f"{nome}, Entrada Negada. ")
   
-
+````
    
 
  * **"Concluo este estudo reforçando a importancia da prática contínua na programção em Python.Através do guia, pude aplicar conceitos fundamentais, como estrutura de dados, condicionais e tratamento de erros. Sinto-me mais confiante para avançar nos estudos e aplicar esses conheciementos em projetos futuros especialmente no desenvolvimento de sistemas e automação"
