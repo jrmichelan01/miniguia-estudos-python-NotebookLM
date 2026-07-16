@@ -22,8 +22,12 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
 
  * Durante o desenvolvimento deste caderno temático os prompts e exercícios forncecidos pelo NotebookLM se mostraram completos e adequados. Não enfrentei dificuldades ou lacunas no conteúdo, pelo contrário, a aplicação prática foi fluida. Essa experiência reforçou a importância da prática continua e da resolução de desafios no ambiente real de condificação.
 
+   
+
  * **TEXTO DO PROMPTS**
  * "Dada uma pessoa com nome e idade, determine se a entrada é permitida ou negada. Caso a idade seja maior ou igual a 18, a entrada é permitida, caso contrário, é negada."
+   
+   
 
  * **PROMPT**
  * nome = input("Digite seu nome: ")
@@ -33,6 +37,8 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
  *   print(f"{nome}, Entrada permitida. ")
  *   else
  * print(f"{nome}, Entrada Negada. ")
+
+   
 
  * **"Concluo este estudo reforçando a importancia da prática contínua na programção em Python.Através do guia, pude aplicar conceitos fundamentais, como estrutura de dados, condicionais e tratamento de erros. Sinto-me mais confiante para avançar nos estudos e aplicar esses conheciementos em projetos futuros especialmente no desenvolvimento de sistemas e automação"
    
