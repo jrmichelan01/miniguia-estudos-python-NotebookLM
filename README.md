@@ -30,7 +30,7 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
    
    
 
-  PROMPT
+  *PROMPT*
   
 nome = input("Digite seu nome: ")
 
