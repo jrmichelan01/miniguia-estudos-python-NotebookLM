@@ -31,13 +31,13 @@ Repositório  criado para desafio da DIO: "Explorando o poder do NotebookLM"
    
 
   PROMPT
- * nome = input("Digite seu nome: ")
- * try:
- *   idade = int(input("Digite sua idade: "))
- * if idade >= 18:
- *   print(f"{nome}, Entrada permitida. ")
- *   else
- * print(f"{nome}, Entrada Negada. ")
+nome = input("Digite seu nome: ")
+try:
+  idade = int(input("Digite sua idade: "))
+  if idade >= 18:
+  print(f"{nome}, Entrada permitida. ")
+    else
+  print(f"{nome}, Entrada Negada. ")
 
    
 
